@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yuan Gao&#39;s Homepage</title>
+  <icon>https://xuanmiao.me/icon.png</icon>
+  
+  <link href="https://xuanmiao.me/atom.xml" rel="self"/>
+  
+  <link href="https://xuanmiao.me/"/>
+  <updated>2024-07-25T12:45:22.086Z</updated>
+  <id>https://xuanmiao.me/</id>
+  
+  <author>
+    <name>Yuan Gao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="https://xuanmiao.me/2024/07/25/About-Me/"/>
+    <id>https://xuanmiao.me/2024/07/25/About-Me/</id>
+    <published>2024-07-25T12:08:47.000Z</published>
+    <updated>2024-07-25T12:45:22.086Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Yuan-Gao&quot;&gt;&lt;a href=&quot;#Yuan-Gao&quot; class=&quot;headerlink&quot; title=&quot;Yuan Gao&quot;&gt;&lt;/a&gt;Yuan Gao&lt;/h2&gt;&lt;p style=&quot;font-family: &#39;Georgia&#39;, serif;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
