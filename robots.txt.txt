@@ -1,0 +1,4 @@
+# robots.txt generated at http://www.w3cschool.cn/
+User-agent: *
+Disallow: 
+Sitemap: https://xuanmiao.me/seo_sitemap.xml
